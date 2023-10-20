@@ -1,2 +1,2 @@
 # Data-persistence-demo
-An iOS project to demonstrate Data persistence in Swift using UserDefaults.
+An iOS project written in Swift to demonstrate Data persistence in Swift using UserDefaults.
